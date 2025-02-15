@@ -1,4 +1,4 @@
-# GUIA-2
+Análisis de Deserción de Clientes
 
 Análisis de Deserción de Clientes de Telecom
 📊 Descripción del Proyecto
